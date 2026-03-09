@@ -1,6 +1,6 @@
 # Arduino Bluetooth Controlled Car
 
-This project controls a 4-wheel robot car using Bluetooth commands sent from a mobile device.
+This project controls a 4/6-wheel robot car using Bluetooth commands sent from a mobile device.
 
 ## Hardware Used
 - Arduino UNO
